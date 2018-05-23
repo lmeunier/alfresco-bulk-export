@@ -93,7 +93,6 @@ public class AlfrescoExportDaoImpl implements AlfrescoExportDao
     private QName ignorePropertyQname[] = 
     { 
             ContentModel.PROP_NODE_DBID, 
-            ContentModel.PROP_NODE_UUID, 
             ContentModel.PROP_CATEGORIES,
             ContentModel.PROP_CONTENT,
             ContentModel.ASPECT_TAGGABLE,
